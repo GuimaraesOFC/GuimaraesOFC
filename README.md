@@ -57,5 +57,18 @@
 Buscando oportunidade como Desenvolvedor Full Stack Jr.
 
 ---
+---
+
+## 🌎 Onde me encontrar
+
+<a href="https://www.linkedin.com/in/guilherme-oliveiras-dos-santos-correa-612865289/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:guilherme050504@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+---
 
 ⭐ Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores.
