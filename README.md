@@ -12,7 +12,7 @@
   <img align="center" alt="React" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
 
-  <img align="center" alt="JS" height="40" width="50"
+  <img align="center" alt="JavaScript" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
   <img align="center" alt="Python" height="40" width="50"
@@ -27,7 +27,7 @@
   <img align="center" alt="Git" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
-  <img align="center" alt="Node" height="40" width="50"
+  <img align="center" alt="Node.js" height="40" width="50"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
 
@@ -42,6 +42,22 @@
 
 ---
 
+## 📚 Atualmente estudando
+
+- React
+- Node.js
+- APIs REST
+- Docker
+- CI/CD
+
+---
+
+## 🎯 Objetivo
+
+Buscando oportunidade como Desenvolvedor Full Stack Jr.
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <div>
@@ -49,17 +65,22 @@
     <img height="180em"
       src="https://github-readme-stats.vercel.app/api?username=GuimaraesOFC&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-  <img height="180em"
+    <img height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuimaraesOFC&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
 </div>
 
 ---
 
 ## 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINKEDIN)
+<a href="https://www.linkedin.com/in/guilherme-oliveiras-dos-santos-correa-612865289/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guilherme050504@gmail.com)
+<a href="mailto:guilherme050504@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 ---
 
