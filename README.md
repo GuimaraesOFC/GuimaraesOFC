@@ -67,21 +67,9 @@ Buscando oportunidade como Desenvolvedor Full Stack Jr.
 
 ---
 
-## 📈 Gráfico de Atividade
+## 📈 Gráfico de Contribuições
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuimaraesOFC&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌎 Onde me encontrar
-
-<a href="https://www.linkedin.com/in/guilherme-oliveiras-dos-santos-correa-612865289/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:guilherme050504@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GuimaraesOFC&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
