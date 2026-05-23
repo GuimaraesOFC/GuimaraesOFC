@@ -57,20 +57,5 @@
 Buscando oportunidade como Desenvolvedor Full Stack Jr.
 
 ---
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img height="180em" src="https://streak-stats.demolab.com?user=GuimaraesOFC&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Gráfico de Contribuições
-
-[![Gráfico de atividade do GitHub](https://github-readme-activity-graph.vercel.app/graph?username=GuimaraesOFC&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ⭐ Sempre buscando aprender novas tecnologias e desenvolver projetos inovadores.
