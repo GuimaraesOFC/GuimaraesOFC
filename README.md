@@ -59,17 +59,11 @@ Buscando oportunidade como Desenvolvedor Full Stack Jr.
 ---
 ## 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=GuimaraesOFC&show_icons=true&theme=transparent"
-    height="170"
-  />
+<div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuimaraesOFC&layout=compact&theme=transparent"
-    height="170"
-  />
-</p>
+<img height="180em" src="https://streak-stats.demolab.com?user=GuimaraesOFC&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
